@@ -1,4 +1,4 @@
-module go.universe.tf/ppp
+module github.com/49tj/goppp
 
 require (
 	github.com/google/go-cmp v0.2.0
